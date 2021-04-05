@@ -1,16 +1,7 @@
-# Table of Contents:
 
-
-|Code Challenge Number|Title            |Link        |
-|---------            |--------         |------------|
-|CC :1                |Reverse an Array |[Reverse Array](app/src/main/java/challenges/ArrayReverse.java)|
-
-
-<!-- [Reverse Array](app/src/main/java/challenges/ArrayReverse.java) -->
-<hr>
 
 # CC1: Reverse an Array
-![](assets/cc1.png)
+![](../assets/cc1.png)
 
 # Reverse an Array
 we did a function called reverseArray which takes an array as an argument,and return an array with elements in reversed order Without use the built-in methods.  
